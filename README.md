@@ -1,110 +1,154 @@
-<h1 align="center">Hi 👋, I'm Lok Vignesh</h1>
-<h3 align="center">AI / ML Engineer | GenAI Developer</h3>
+<div align="center">
 
-<p align="center">
-📍 Coimbatore, Tamil Nadu <br>
-📧 lokvignesh1b@gmail.com
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Lok+Vignesh+👋;AI+%2F+ML+Engineer;Building+GenAI+and+Data+Driven+Systems" />
 
----
+</div>
 
-## 🚀 About Me
+<div align="center">
 
-I'm an aspiring **AI / Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lok-vignesh-b-3a3454227)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokvignesh1b@gmail.com)
 
-I work on:
-
-• Retrieval-Augmented Generation (RAG)  
-• Generative AI applications  
-• Machine Learning models  
-• AI-powered backend systems
-
-I transitioned from a **B.Sc Chemistry background** into **Data Science and AI**, focusing on building practical AI products.
+</div>
 
 ---
 
-## 🧠 Projects
+# 🚀 About Me
+
+I'm an aspiring **AI / Machine Learning Engineer** passionate about solving real-world problems using data and intelligent systems.
+
+My focus areas include:
+
+- 🤖 Generative AI applications  
+- 🔎 Retrieval-Augmented Generation (RAG)  
+- 📊 Machine learning models  
+- ⚙️ AI-powered backend systems  
+
+I transitioned from **B.Sc Chemistry → Data Science → AI Engineering**, and now focus on building practical AI applications.
+
+---
+
+# 💼 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
 
 ### 🔎 RAG Knowledge Assistant
-Domain specific question answering using Retrieval Augmented Generation.
+Domain specific question answering using RAG.
 
-Tech:
-Python • LangChain • Vector Search • FastAPI
+**Highlights**
 
----
+• Semantic search  
+• Context aware responses  
+• Vector embeddings  
+
+Tech  
+Python • LangChain • FAISS • FastAPI
+
+</td>
+
+<td width="33%">
 
 ### 💬 RAG Chat Bot
 AI chatbot that answers questions from knowledge base documents.
 
-Tech:
-Python • LLM APIs • Semantic Search
+**Highlights**
+
+• Document embedding  
+• Semantic retrieval  
+• LLM based responses  
+
+Tech  
+Python • LangChain • LLM APIs
+
+</td>
+
+<td width="33%">
+
+### 📈 AI Hotel Dynamic Pricing
+Machine learning system for hotel price optimization.
+
+**Highlights**
+
+• Occupancy based pricing  
+• Competitor price analysis  
+• API based prediction engine  
+
+Tech  
+Python • FastAPI • PostgreSQL • ML
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎙️ GenAI Podcast Creator
-AI system that automatically generates podcast content using multi-agent AI workflows.
+# 🛠 Tech Stack
 
-Tech:
-Python • CrewAI • LLM APIs
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
 
-### 📈 AI Hotel Dynamic Pricing Engine
-Machine learning system that adjusts hotel room prices dynamically based on occupancy and competitor data.
+### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
 
-Tech:
-Python • FastAPI • PostgreSQL • Machine Learning
-
----
-
-### 🔎 Intelligent Search System
-Multi-agent AI search engine that converts natural language queries into navigation, SQL queries, or RAG answers.
-
-Tech:
-Python • FastAPI • LangChain • FAISS • PostgreSQL
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 
 ---
 
-## 🛠 Tech Stack
+# 📊 GitHub Stats
 
-Languages  
-Python • SQL
+<div align="center">
 
-AI / ML  
-Machine Learning  
-RAG Systems  
-Vector Databases  
-Prompt Engineering
+<img src="https://github-readme-stats.vercel.app/api?username=lokVignesh14&show_icons=true&theme=tokyonight" />
 
-Frameworks  
-FastAPI • LangChain • CrewAI • Streamlit
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokVignesh14&theme=tokyonight" />
 
-Databases  
-PostgreSQL • Vector DB
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
-![stats](https://github-readme-stats.vercel.app/api?username=lokVignesh14&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=lokVignesh14&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokVignesh14&theme=tokyo-night&hide_border=true" />
 
----
-
-## 🎯 Current Focus
-
-• Building production ready AI systems  
-• Improving RAG pipelines  
-• Developing ML-based applications  
-• Preparing for AI/ML Engineer roles
+</div>
 
 ---
 
-## 📫 Connect
+# 🎯 Current Focus
 
-LinkedIn  
-https://linkedin.com/in/lok-vignesh-b-3a3454227
+- 🤖 Building production-ready **RAG systems**
+- 📊 Improving **ML pipelines**
+- ⚡ Developing **AI powered APIs**
+- 🚀 Preparing for **AI / ML Engineer roles**
 
-Email  
-lokvignesh1b@gmail.com
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lok-vignesh-b-3a3454227)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokvignesh1b@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=lokVignesh14&color=blueviolet&style=flat-square)
+
+</div>
