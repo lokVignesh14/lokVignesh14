@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lok-vignesh-b-3a3454227)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokvignesh1b@gmail.com)
+[![Portfolio](https://ai-portfolio-du4g-bxpkfl4o6-lokvignesh1b-3383s-projects.vercel.app/)
 
 </div>
 
