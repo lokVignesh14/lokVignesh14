@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Lok+Vignesh+👋;AI+%2F+ML+Engineer;Building+GenAI+and+Data+Driven+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Lok+Vignesh+👋;AI+%2F+ML+Engineer;Building+AI+Systems+and+Data+Driven+Applications" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lok-vignesh-b-3a3454227)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokvignesh1b@gmail.com)
-[![Portfolio](https://ai-portfolio-zl37.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://ai-portfolio-zl37.vercel.app/)
 
 </div>
 
@@ -16,16 +16,11 @@
 
 # 🚀 About Me
 
-I'm an aspiring **AI / Machine Learning Engineer** passionate about solving real-world problems using data and intelligent systems.
+I am an aspiring **AI / Machine Learning Engineer** focused on building real-world intelligent systems using machine learning, generative AI, and scalable backend architectures.
 
-My focus areas include:
+My work centers on designing **AI-powered applications that integrate machine learning models, APIs, and data pipelines** to solve practical business problems.
 
-- 🤖 Generative AI applications  
-- 🔎 Retrieval-Augmented Generation (RAG)  
-- 📊 Machine learning models  
-- ⚙️ AI-powered backend systems  
-
-I transitioned from **B.Sc Chemistry → Data Science → AI Engineering**, and now focus on building practical AI applications.
+I transitioned from **B.Sc Chemistry → Data Science → AI Engineering**, and now focus on developing production-style AI systems such as intelligent search platforms, recommendation engines, and automated pricing systems.
 
 ---
 
@@ -36,48 +31,51 @@ I transitioned from **B.Sc Chemistry → Data Science → AI Engineering**, and 
 <td width="33%">
 
 ### 🔎 RAG Knowledge Assistant
-Domain specific question answering using RAG.
+Domain-specific intelligent question answering system using Retrieval-Augmented Generation.
 
 **Highlights**
 
-• Semantic search  
-• Context aware responses  
-• Vector embeddings  
+• Semantic document search  
+• Context-aware responses  
+• Vector embedding retrieval  
 
-Tech  
-Python • LangChain • FAISS • FastAPI
+**Tech**
 
-</td>
-
-<td width="33%">
-
-### 💬 RAG Chat Bot
-AI chatbot that answers questions from knowledge base documents.
-
-**Highlights**
-
-• Document embedding  
-• Semantic retrieval  
-• LLM based responses  
-
-Tech  
-Python • LangChain • LLM APIs
+Python • LangChain • FAISS • FastAPI • LLM APIs
 
 </td>
 
 <td width="33%">
 
 ### 📈 AI Hotel Dynamic Pricing
-Machine learning system for hotel price optimization.
+AI-powered pricing engine for hotel management systems.
 
 **Highlights**
 
-• Occupancy based pricing  
+• Occupancy-based dynamic pricing  
 • Competitor price analysis  
-• API based prediction engine  
+• Automated price optimization  
 
-Tech  
-Python • FastAPI • PostgreSQL • ML
+**Tech**
+
+Python • FastAPI • PostgreSQL • Machine Learning
+
+</td>
+
+<td width="33%">
+
+### 🎬 Movie Recommendation System
+Machine learning recommendation system predicting user preferences using collaborative filtering and neural models.
+
+**Highlights**
+
+• Collaborative filtering  
+• Matrix factorization (SVD)  
+• Neural recommendation model  
+
+**Tech**
+
+Python • PyTorch • Scikit-Learn • FastAPI
 
 </td>
 </tr>
@@ -95,6 +93,7 @@ Python • FastAPI • PostgreSQL • ML
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
@@ -131,7 +130,7 @@ Python • FastAPI • PostgreSQL • ML
 
 - 🤖 Building production-ready **RAG systems**
 - 📊 Improving **ML pipelines**
-- ⚡ Developing **AI powered APIs**
+- ⚡ Developing **AI-powered APIs**
 - 🚀 Preparing for **AI / ML Engineer roles**
 
 ---
